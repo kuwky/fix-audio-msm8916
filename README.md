@@ -1,5 +1,5 @@
 # Restore audio on Samsung Galaxy J5 (2016) and other Qualcomm MSM8916 phones running postmarketOS / Nura (OpenRC or systemd)
-### ! Created using AI!
+### ! Created using AI !
 ### ! Tested only with samsung-j5x !
 ## Symptom this fixes
 
